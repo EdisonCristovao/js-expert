@@ -1,0 +1,1 @@
+{"processes":{"1a752dd2-9a29-4e7b-9329-6fce267483fb":{"parent":"32fc25dd-2259-4a50-99f5-5519045ff210","children":[]},"32fc25dd-2259-4a50-99f5-5519045ff210":{"parent":null,"children":["1a752dd2-9a29-4e7b-9329-6fce267483fb"]}},"files":{"/home/edison/Modelos/curso/js-expert/04-coverage-e2e/api.js":["1a752dd2-9a29-4e7b-9329-6fce267483fb"]},"externalIds":{}}
