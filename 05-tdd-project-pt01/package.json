@@ -1,0 +1,13 @@
+{
+  "name": "05-tdd-project-pt01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specifield\" && exit 1",
+    "seed": "node ./seed"
+  },
+  "devDependencies": {
+    "faker": "^5.5.3"
+  }
+}

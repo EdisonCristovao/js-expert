@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f8d45b24-6355-4cb2-937e-a0876a569b1a",
+    "name": "SUV",
+    "carIds": [
+      "6c69b524-7fbd-4dac-990a-dbf6bddaaf18",
+      "6386cb7b-0e8c-442b-91ba-8ccbd5cc38ea",
+      "e1f0f0c2-0d05-4320-9e8f-e3fa2ce3073e"
+    ],
+    "price": "91.09"
+  }
+]

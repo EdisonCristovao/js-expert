@@ -1,0 +1,23 @@
+[
+  {
+    "id": "6c69b524-7fbd-4dac-990a-dbf6bddaaf18",
+    "name": "Accord",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "6386cb7b-0e8c-442b-91ba-8ccbd5cc38ea",
+    "name": "Model 3",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "e1f0f0c2-0d05-4320-9e8f-e3fa2ce3073e",
+    "name": "Grand Cherokee",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  }
+]
